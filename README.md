@@ -17,4 +17,5 @@ After:
 What's used for?
 
 ![image](https://user-images.githubusercontent.com/113164779/198384634-e53e27ce-8007-4533-aab9-aa8a98d4194d.png)
+
 We can pixelate our faces, or even smooth out wrinkles if we want!
